@@ -1,7 +1,6 @@
 # MyAngularApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
-and covert to build by webpack using webpack5.98.0.
+This project build by webpack using webpack5.98.0.
 
 ## npm install
 please run :
